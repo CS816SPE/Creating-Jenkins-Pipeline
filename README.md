@@ -13,4 +13,4 @@ Refer to the below screencast to setup a pipeline following the above instructio
 
 ## Screencast of the same
 
-[![Youtube](https://img.youtube.com/vi/xc5c86lNEMM/3.jpg)](https://www.youtube.com/watch?v=xc5c86lNEMM)
+[![Youtube](https://img.youtube.com/vi/xc5c86lNEMM/0.jpg)](https://www.youtube.com/watch?v=xc5c86lNEMM)
